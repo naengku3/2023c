@@ -6,5 +6,5 @@ int main()
 {
     num.a = 3;
     num.b = 4;
-    printf("%d", me.a + me.b);
+    printf("%d", num.a + num.b);
 }
