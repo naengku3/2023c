@@ -1,10 +1,10 @@
 #include <stdio.h>
 struct Math{
     int a, b;
-} me;
+} num;
 void main()
 {
-    me.a = 3;
-    me.b = 4;
+    num.a = 3;
+    num.b = 4;
     printf("%d", me.a + me.b);
 }
