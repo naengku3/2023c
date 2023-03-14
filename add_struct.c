@@ -2,7 +2,7 @@
 struct Math{
     int a, b;
 } num;
-void main()
+int main()
 {
     num.a = 3;
     num.b = 4;
